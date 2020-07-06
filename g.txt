@@ -1,0 +1,7 @@
+This is some information
+about coding on Python.
+If somebody wants to create his own project,
+it is necessary to write a brief speech about it.
+            about coding on Python.
+    If somebody wants to create his own project,
+If somebody wants to create his own project.
